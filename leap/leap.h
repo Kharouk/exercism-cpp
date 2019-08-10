@@ -6,7 +6,7 @@
 #define LEAP_LEAP_H
 
 namespace leap {
-    bool is_leap_year();
+    bool is_leap_year(int year);
 }
 
 #endif //LEAP_LEAP_H
